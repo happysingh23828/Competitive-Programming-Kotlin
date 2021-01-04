@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Competitive-Programming-Kotlin.iml" filepath="$PROJECT_DIR$/Competitive-Programming-Kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructureImplementation/DataStructureImplementation.iml" filepath="$PROJECT_DIR$/DataStructureImplementation/DataStructureImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>
