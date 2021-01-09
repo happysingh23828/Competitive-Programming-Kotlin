@@ -1,4 +1,4 @@
-package medium
+package easy
 
 // [Problem] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 class Solution26 {
