@@ -1,4 +1,4 @@
-package easy
+package easy.array
 
 // [Problem] https://leetcode.com/problems/remove-element/
 class Solution27 {

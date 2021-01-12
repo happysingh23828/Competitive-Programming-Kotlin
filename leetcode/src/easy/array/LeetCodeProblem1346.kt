@@ -1,4 +1,4 @@
-package easy
+package easy.array
 
 class Solution1346 {
     fun checkIfExist(arr: IntArray): Boolean {

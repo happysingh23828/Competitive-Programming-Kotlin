@@ -1,4 +1,4 @@
-package easy
+package easy.array.array
 
 class Solution665 {
 

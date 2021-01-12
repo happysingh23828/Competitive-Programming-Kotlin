@@ -1,4 +1,4 @@
-package medium
+package medium.array
 
 // Not able to solve :-(
 class Solution11WithBruteForce {

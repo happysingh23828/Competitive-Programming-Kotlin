@@ -1,4 +1,4 @@
-package easy
+package easy.array
 
 // Problem https://leetcode.com/problems/search-insert-position/
 class Solution35 {

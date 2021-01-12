@@ -1,4 +1,4 @@
-package easy
+package easy.array
 class Solution1480 {
 
     fun runningSum(nums: IntArray): IntArray {

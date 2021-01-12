@@ -1,4 +1,4 @@
-package easy
+package easy.array
 
 // problem https://leetcode.com/problems/shuffle-the-array/
 
